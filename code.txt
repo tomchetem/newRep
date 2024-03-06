@@ -1,0 +1,8 @@
+// This is a simple Java program
+public class HelloWorld {
+    // This is the main method
+    public static void main(String[] args) {
+        // This is a statement that prints "Hello, world!" to the standard output
+        System.out.println("Hello, world!");
+    }
+}
